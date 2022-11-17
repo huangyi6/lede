@@ -828,7 +828,7 @@ TARGET_DEVICES += phicomm_psg1208
 
 define Device/phicomm_psg1218a
   SOC := mt7620a
-  IMAGE_SIZE := 7872k
+  IMAGE_SIZE := 15744k
   DEVICE_VENDOR := Phicomm
   DEVICE_MODEL := PSG1218
   DEVICE_VARIANT:= Ax
